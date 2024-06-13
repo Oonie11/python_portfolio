@@ -30,10 +30,5 @@ def submit_form():
     else:
         return "something went wrong try again."
 
-
-
-
-
-
 if __name__ == '__main__':
     app.run(debug=True)
